@@ -1,0 +1,10 @@
+{
+  "provider": "gemini",
+  "apiKey": "AIzaSyDmhMbnt5uaSi6bgVHLPTeHWkFAaLA_l4Y",
+  "model": "gemini-2.0-flash",
+  "thinkIntervalTicks": 100,
+  "memorySize": 20,
+  "botName": "Steve_AI",
+  "verboseChat": true,
+  "language": "Russian"
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "aiplayermod",
+  "version": "5.0.0",
+  "name": "AI Player Mod",
+  "description": "ИИ-игрок v3: Baritone навигация, философские диалоги, расширенный GUI",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.aiplayermod.AiPlayerMod"],
+    "client": ["com.aiplayermod.client.AiPlayerClientMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.16.5"
+  }
+}
